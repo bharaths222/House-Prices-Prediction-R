@@ -4,6 +4,7 @@ Exploring and creating a visualization of data, compared the use of different re
 
 
 Libraries required:
-1.Caret
-2.dplyr
-3.ggplot2
+1. caret
+2. dplyr
+3. ggplot2
+4. amelia
